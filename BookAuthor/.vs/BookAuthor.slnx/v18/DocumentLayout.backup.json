@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FFFAB6B-FF5A-4C4C-81BE-9FCF49629192}|BookAuthor.csproj|c:\\users\\aytac\u0027s noteboob\\desktop\\bookauthor\\bookauthor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FFFAB6B-FF5A-4C4C-81BE-9FCF49629192}|BookAuthor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|c:\\users\\aytac\u0027s noteboob\\desktop\\bookauthor\\bookauthor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|c:\\users\\aytac\u0027s noteboob\\desktop\\bookauthor\\bookauthor\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|solutionrelative:services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|c:\\users\\aytac\u0027s noteboob\\desktop\\bookauthor\\bookauthor\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|c:\\users\\aytac\u0027s noteboob\\desktop\\bookauthor\\bookauthor\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|c:\\users\\aytac\u0027s noteboob\\desktop\\bookauthor\\bookauthor\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|c:\\users\\aytac\u0027s noteboob\\desktop\\bookauthor\\bookauthor\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|solutionrelative:services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|c:\\users\\aytac\u0027s noteboob\\desktop\\bookauthor\\bookauthor\\services\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|solutionrelative:services\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|c:\\users\\aytac\u0027s noteboob\\desktop\\bookauthor\\bookauthor\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|c:\\users\\aytac\u0027s noteboob\\desktop\\bookauthor\\bookauthor\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|c:\\users\\aytac\u0027s noteboob\\desktop\\bookauthor\\bookauthor\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|c:\\users\\aytac\u0027s noteboob\\desktop\\bookauthor\\bookauthor\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|c:\\users\\aytac\u0027s noteboob\\desktop\\bookauthor\\bookauthor\\bookauthor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C047B3C-0A51-BFA7-D73E-90F6CC55CDF4}|BookAuthor.csproj|solutionrelative:bookauthor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,16 +70,158 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Services\\AuthorService.cs",
+              "RelativeToolTip": "Services\\AuthorService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:52:07.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:51:19.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAwwN0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:50:46.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:51:28.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Services\\Interfaces\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Services\\Interfaces\\IAuthorService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:18:12.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IbookService.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Services\\Interfaces\\IbookService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IbookService.cs",
+              "ToolTip": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Services\\Interfaces\\IbookService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IbookService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:17:48.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:52:17.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAwwPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:50:58.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T17:48:51.131Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:51:44.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:51:12.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookAuthor.csproj",
+              "DocumentMoniker": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\BookAuthor.csproj",
+              "RelativeDocumentMoniker": "BookAuthor.csproj",
+              "ToolTip": "C:\\Users\\Aytac\u0027s Noteboob\\Desktop\\BookAuthor\\BookAuthor\\BookAuthor.csproj",
+              "RelativeToolTip": "BookAuthor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-19T17:50:02.714Z"
             }
           ]
         }

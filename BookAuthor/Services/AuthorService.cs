@@ -1,55 +1,63 @@
-﻿using BookAuthor.Models;
+﻿using BookAuthor.Data;
+using BookAuthor.Models;
 using BookAuthor.Services.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BookAuthor.Services
 {
-    public class AuthorService : IauthorService
+    public class AuthorService : IAuthorService
     {
-        private Author[] _authors = [];
 
         public Author[] GetAll()
         {
-            return _authors;
+            return AppDbContext .authors;
         }
 
         public Author GetById(int id)
         {
-            return _authors.FirstOrDefault(a => a.Id == id);
+            return AppDbContext.authors.FirstOrDefault(a => a.Id == id);
         }
 
         public Author[] SearchByFullName(string name)
         {
-            return _authors
-                .Where(a => a.FullName.ToLower().Contains(name.ToLower()))
+            return AppDbContext.authors
+                .Where(a => a.FullName.Contains(name,StringComparison.OrdinalIgnoreCase))
                 .ToArray();
         }
 
         public Author[] FilterByAge(int age)
         {
-            return _authors.Where(a => a.Age == age).ToArray();
+            return AppDbContext.authors.Where(a => a.Age == age).ToArray();
         }
 
         public Author[] FilterByAddress(string address)
         {
-            return _authors
+            return AppDbContext.authors
                 .Where(a => a.Address.ToLower().Contains(address.ToLower()))
                 .ToArray();
         }
 
-        public void Create(Author author)
+       
+               public void Create(Author author)
         {
-            Array.Resize(ref _authors, _authors.Length + 1);
-            _authors[1] = author;
+            Array.Resize(ref AppDbContext.authors, AppDbContext.authors.Length + 1);
+            AppDbContext.authors[AppDbContext.authors.Length - 1] = author;
         }
+
+        
 
         public void Delete(int id)
         {
-            _authors = _authors.Where(a => a.Id != id).ToArray();
+            // əvvəl author silinir
+            AppDbContext.authors =
+                AppDbContext.authors
+                .Where(a => a.Id != id)
+                .ToArray();
+
+            // sonra ona aid book-lar silinir
+            AppDbContext.books =
+                AppDbContext.books
+                .Where(b => b.Author.Id != id)
+                .ToArray();
         }
     }
 }

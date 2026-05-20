@@ -1,0 +1,15 @@
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\obj\Debug\net8.0\BookAuthor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\obj\Debug\net8.0\BookAuthor.AssemblyInfoInputs.cache
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\obj\Debug\net8.0\BookAuthor.AssemblyInfo.cs
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\obj\Debug\net8.0\BookAuthor.csproj.CoreCompileInputs.cache
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\obj\Debug\net8.0\BookAuthor.sourcelink.json
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\bin\Debug\net8.0\BookAuthor.exe
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\bin\Debug\net8.0\BookAuthor.deps.json
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\bin\Debug\net8.0\BookAuthor.runtimeconfig.json
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\bin\Debug\net8.0\BookAuthor.dll
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\bin\Debug\net8.0\BookAuthor.pdb
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\obj\Debug\net8.0\BookAuthor.dll
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\obj\Debug\net8.0\refint\BookAuthor.dll
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\obj\Debug\net8.0\BookAuthor.pdb
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\obj\Debug\net8.0\BookAuthor.genruntimeconfig.cache
+C:\Users\Aytac's Noteboob\Desktop\BookAuthor\BookAuthor\obj\Debug\net8.0\ref\BookAuthor.dll

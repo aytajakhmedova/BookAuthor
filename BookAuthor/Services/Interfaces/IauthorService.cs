@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BookAuthor.Services.Interfaces
 {
-    public interface  IauthorService
+    public interface  IAuthorService
     {
         Author[] GetAll();
         Author GetById(int id);
